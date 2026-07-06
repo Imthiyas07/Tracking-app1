@@ -1,0 +1,6 @@
+{
+  "name": "TripShield",
+  "description": "A comprehensive Travel SOS & Emergency Travel Assistant (Offline Companion) featuring real-time SOS broadcasting, offline emergency database, and AI-powered smart safety assistance.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
