@@ -2,22 +2,26 @@
   "name": "TripShield",
   "short_name": "TripShield",
   "description": "Emergency Travel Safety App",
+  "id": "/",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#ff0000",
   "orientation": "portrait",
-  "scope": "/",
+  "lang": "en",
   "icons": [
     {
       "src": "/images/icon-192-resized.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "/images/icon-512-resized.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
