@@ -1,6 +1,6 @@
 {
-  "name": "blyfit",
-  "short_name": "fitness app",
+  "name": "TripShield",
+  "short_name": "TripShield",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#0f172a",
